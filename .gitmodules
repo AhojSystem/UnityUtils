@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/AhojSystem/EditorExtensions/MissingScriptRemover"]
+	path = Assets/Plugins/AhojSystem/EditorExtensions/MissingScriptRemover
+	url = https://github.com/AhojSystem/MissingScriptRemover.git
