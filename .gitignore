@@ -1,0 +1,11 @@
+# ディレクトリ
+/Library/
+/Temp/
+/Build/
+/UserSettings/
+/Logs/
+/.idea/
+
+# ファイル
+*.csproj
+*.sln
